@@ -898,23 +898,5 @@
     "academic_pressure": 7,
     "self_reported_stress": 8,
     "timestamp": "2026-04-10T17:15:09.164Z"
-  },
-  {
-    "id": "42bbf77e-7e66-41fc-bad9-8e6b5e9eecd3",
-    "name": "saksham",
-    "age": 20,
-    "gender": "Male",
-    "department": "Computer Science",
-    "semester": 4,
-    "cgpa": 8.5,
-    "sleep_hours": 6,
-    "study_hours": 5,
-    "screen_time": 5.5,
-    "physical_activity": 2,
-    "social_support": 5,
-    "financial_stress": 5,
-    "academic_pressure": 5,
-    "self_reported_stress": 5,
-    "timestamp": "2026-04-10T17:33:32.923Z"
   }
 ]
